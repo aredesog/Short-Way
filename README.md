@@ -1,9 +1,5 @@
 # Algoritmos de Caminho Mais Curto
 
-**Universidade Federal de Alfenas (UNIFAL)**
-
-**Professor:** Iago Augusto de Carvalho
-
 ## Sobre o Projeto
 O objetivo deste projeto é implementar e avaliar empiricamente algoritmos de caminho mais curto em grafos. O programa é capaz de encontrar o menor caminho entre um vértice qualquer e todos os outros, rodando em grafos ponderados, conexos e não-orientados.
 
